@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login-And-pagination-cart.git/static/css/main.46331f6d.css",
+    "main.js": "/Login-And-pagination-cart.git/static/js/main.f14df071.js",
+    "static/js/453.7bf11acd.chunk.js": "/Login-And-pagination-cart.git/static/js/453.7bf11acd.chunk.js",
+    "index.html": "/Login-And-pagination-cart.git/index.html",
+    "main.46331f6d.css.map": "/Login-And-pagination-cart.git/static/css/main.46331f6d.css.map",
+    "main.f14df071.js.map": "/Login-And-pagination-cart.git/static/js/main.f14df071.js.map",
+    "453.7bf11acd.chunk.js.map": "/Login-And-pagination-cart.git/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46331f6d.css",
+    "static/js/main.f14df071.js"
+  ]
+}
